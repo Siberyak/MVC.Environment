@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC.Classes", "MVC.Classes\MVC.Classes.csproj", "{3E69B213-8A56-400F-A738-CAC7751AD2DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms.Test", "WinForms.Test\WinForms.Test.csproj", "{13DC8852-2618-4D31-8874-1525FBCB5EEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E69B213-8A56-400F-A738-CAC7751AD2DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E69B213-8A56-400F-A738-CAC7751AD2DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E69B213-8A56-400F-A738-CAC7751AD2DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E69B213-8A56-400F-A738-CAC7751AD2DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13DC8852-2618-4D31-8874-1525FBCB5EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13DC8852-2618-4D31-8874-1525FBCB5EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13DC8852-2618-4D31-8874-1525FBCB5EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13DC8852-2618-4D31-8874-1525FBCB5EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
